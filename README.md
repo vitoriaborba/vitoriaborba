@@ -1,7 +1,7 @@
-// 👋 Hi, I’m @vitoriaborba
-// 👀 I’m interested in web development
-// 🌱 I’m currently learning React
-// 📫 How to reach me: vitoriaborba@icloud.com
+👋 Hi, I’m @vitoriaborba <br>
+👀 I’m interested in web development <br>
+🌱 I’m currently learning React <br>
+📫 How to reach me: vitoriaborba@icloud.com <br>
 
 <!--
 **vitoriaborba/vitoriaborba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
