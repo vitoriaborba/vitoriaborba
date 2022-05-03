@@ -1,4 +1,7 @@
-### Hi there 👋
+👋 Hi, I’m @vitoriaborba
+👀 I’m interested in web development
+🌱 I’m currently learning React
+📫 How to reach me: vitoriaborba@icloud.com
 
 <!--
 **vitoriaborba/vitoriaborba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
